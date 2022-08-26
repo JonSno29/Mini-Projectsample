@@ -1,2 +1,3 @@
 # Mini-Project
-First challenge
+First Mini-Project
+
